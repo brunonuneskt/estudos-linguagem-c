@@ -73,15 +73,3 @@ O objetivo deste repositório é registrar minha evolução nos estudos de progr
 Com essas atividades, pude exercitar minha lógica de programação e compreender melhor o funcionamento de diferentes estruturas da linguagem C.
 
 Como ainda estou no início do meu aprendizado, pretendo continuar praticando e aprimorando meus conhecimentos por meio de novos exercícios e projetos.
-
----
-
-## Sobre mim
-
-**Bruno Nunes**
-
-Estudante de Sistemas de Informação, atualmente em transição de carreira para a área de Tecnologia.
-
-Tenho interesse em desenvolvimento de software e busco minha primeira oportunidade profissional na área de TI.
-
-**GitHub:** [brunonuneskt](https://github.com/brunonuneskt)
