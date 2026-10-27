@@ -1,77 +1,87 @@
-Estudos em Linguagem C
+# Estudos em Linguagem C
 
-Este repositório reúne três atividades práticas que desenvolvi durante meus estudos de Linguagem C na graduação em Sistemas de Informação.
+**Atividades práticas | Sistemas de Informação**
 
-O objetivo desses projetos foi colocar em prática conceitos básicos de programação, como variáveis, estruturas condicionais, laços de repetição, vetores e algoritmos de ordenação.
+Este repositório reúne três atividades práticas desenvolvidas durante meus estudos de Linguagem C na graduação em Sistemas de Informação.
 
-Projetos desenvolvidos
+Os projetos têm como objetivo aplicar conceitos fundamentais de programação, como variáveis, estruturas condicionais, laços de repetição, vetores e algoritmos de ordenação.
 
-1. Controle de Atividades Físicas
+---
 
-Um programa que permite registrar atividades físicas e acompanhar o tempo de treino e as calorias estimadas.
+## Projetos desenvolvidos
 
-Funcionalidades:
+### 01. Controle de Atividades Físicas
 
-Registrar o tempo de cada treino.
+Sistema desenvolvido para registrar atividades físicas e acompanhar o tempo de treino e as calorias estimadas.
 
-Calcular uma estimativa de calorias gastas.
+**Funcionalidades:**
+- Registrar a duração de cada treino.
+- Calcular uma estimativa de calorias gastas.
+- Consultar o total de calorias.
+- Visualizar um resumo dos treinos realizados.
+- Navegar por um menu interativo.
 
-Consultar o total de calorias.
+**Conceitos utilizados:** `if/else`, `switch`, `do-while`, `scanf` e variáveis.
 
-Visualizar um resumo dos treinos realizados.
+---
 
-Utilizar um menu interativo.
+### 02. Registro de Almoços
 
-Conceitos utilizados: if/else, switch, do-while, variáveis e entrada de dados com scanf.
+Programa que permite registrar a quantidade de almoços durante sete dias e calcular o consumo total e a média diária.
 
-2. Registro de Almoços
+**Funcionalidades:**
+- Registrar a quantidade de almoços de cada dia.
+- Calcular o total semanal.
+- Calcular a média diária.
+- Exibir os resultados no terminal.
 
-Programa desenvolvido para registrar a quantidade de almoços durante os sete dias da semana.
+**Conceitos utilizados:** vetores, laços `for`, variáveis e operações matemáticas.
 
-Funcionalidades:
+---
 
-Registrar a quantidade de almoços de cada dia.
+### 03. Ordenação Crescente e Decrescente
 
-Calcular o total semanal.
+Programa que utiliza o algoritmo **Bubble Sort** para organizar uma lista de dez preços em ordem crescente e decrescente.
 
-Calcular a média diária.
+**Funcionalidades:**
+- Exibir os preços originais.
+- Ordenar os valores do menor para o maior.
+- Ordenar os valores do maior para o menor.
+- Apresentar os resultados no terminal.
 
-Exibir os resultados no terminal.
+**Conceitos utilizados:** vetores, laços `for`, estruturas condicionais e algoritmo Bubble Sort.
 
-Conceitos utilizados: vetores, laços for, variáveis e operações matemáticas.
+---
 
-3. Ordenação Crescente e Decrescente
+## Tecnologias e conceitos
 
-Programa que utiliza o algoritmo Bubble Sort para organizar uma lista de dez preços.
+| Tecnologia / Conceito | Aplicação |
+|---|---|
+| Linguagem C | Desenvolvimento dos programas |
+| Biblioteca `stdio.h` | Entrada e saída de dados |
+| Estruturas condicionais | Tomada de decisões |
+| Laços de repetição | Execução de tarefas repetitivas |
+| Vetores | Armazenamento de valores |
+| Bubble Sort | Ordenação de dados |
 
-Funcionalidades:
+---
 
-Exibir os preços originais.
+## Objetivo do repositório
 
-Organizar os valores em ordem crescente.
+O objetivo deste repositório é registrar minha evolução nos estudos de programação e colocar em prática os conhecimentos adquiridos durante a graduação.
 
-Organizar os valores em ordem decrescente.
+Com essas atividades, pude exercitar minha lógica de programação e compreender melhor o funcionamento de diferentes estruturas da linguagem C.
 
-Mostrar os resultados no terminal.
+Como ainda estou no início do meu aprendizado, pretendo continuar praticando e aprimorando meus conhecimentos por meio de novos exercícios e projetos.
 
-Conceitos utilizados: vetores, laços for, estruturas condicionais e algoritmo Bubble Sort.
+---
 
-Tecnologias utilizadas
+## Sobre mim
 
-Linguagem C
+**Bruno Nunes**
 
-Biblioteca stdio.h
+Estudante de Sistemas de Informação, atualmente em transição de carreira para a área de Tecnologia.
 
-Objetivo
+Tenho interesse em desenvolvimento de software e busco minha primeira oportunidade profissional na área de TI.
 
-Essas atividades fazem parte do meu aprendizado em programação. Com elas, pude praticar a lógica de programação e entender melhor como utilizar os conceitos estudados na faculdade.
-
-Ainda estou no início dos meus estudos e pretendo continuar praticando e desenvolvendo novos projetos para melhorar meus conhecimentos.
-
-Autor
-
-Bruno Nunes
-
-Estudante de Sistemas de Informação, em busca de desenvolver meus conhecimentos e conquistar minha primeira oportunidade na área de Tecnologia.
-
-GitHub: brunonuneskt
+**GitHub:** [brunonuneskt](https://github.com/brunonuneskt)
